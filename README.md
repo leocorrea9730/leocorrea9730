@@ -10,6 +10,14 @@ Ao longo da minha trajetória, adquiri habilidades expressivas na área logísti
 Estou animado com as possibilidades na área de Dados e aberto a oportunidades e colaborações que me permitam expandir meu conhecimento e experiência neste campo dinâmico. 
 
 Vamos conectar e explorar juntos o potencial dos dados!
+
+Hello! I'm Leonardo, a professional transitioning into Data Analysis. I'm currently in my fifth semester of Computer Engineering and am looking to expand my data skills through data-related courses and active participation in the tech community.
+
+Throughout my career, I've acquired significant skills in logistics, working in various areas, such as Data Analysis, Logistics Management, ERP systems (TOTVS DATASUL, Cis-ERP), report and spreadsheet preparation, order tracking, supplier and product registration, price collection and analysis, customer support, WMS collector use, economic research, and indexes. I recognize a direct connection between these skills and the data field, which is why I'm further enhancing my skills in this field of interest.
+
+I'm excited about the possibilities in Data and open to opportunities and collaborations that allow me to expand my knowledge and experience in this dynamic field.
+
+Let's connect and explore the potential of data together!
 </p>
 
 <h3 align="left"> 📲 Connect with me:</h3>
