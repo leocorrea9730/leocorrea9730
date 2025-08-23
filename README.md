@@ -65,7 +65,7 @@
    align="center"
 >
     <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocorre9730&theme=dracula"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocorrea9730&theme=dracula"
         alt="xx"
         width="100%"
     />
