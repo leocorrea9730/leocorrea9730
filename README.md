@@ -51,12 +51,12 @@
     align="center"
 >
     <img
-        src="https://github-readme-stats.vercel.app/api?username=leocorre9730&show_icons=true&locale=en&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api?username=leocorrea9730&show_icons=true&locale=en&theme=dracula"
         alt="xx"
         height="190em"
     />
     <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=leocorre9730&show_icons=true&locale=en&layout=compact&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=leocorrea9730&show_icons=true&locale=en&layout=compact&theme=dracula"
     alt="xx"
     height="190em"
     />
