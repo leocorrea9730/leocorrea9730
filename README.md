@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Corrêa </h1>
 <h3 align="center">Data Analyst</h3>
 
-<h3 align="left">🇧🇷Sobre mim/About me:</h3>
+<h3 align="left">Sobre mim/About me:</h3>
 <p>
     Olá! Sou o Leonardo, um profissional em transição para área Análise de Dados. Atualmente estou no quinto semestre do curso de Engenharia da Computação e estou buscando ampliar minhas habilidades na área de dados por meio de cursos voltados a mesma e participando ativamente da comunidade tech. 
 
