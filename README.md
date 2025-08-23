@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Leonardo Corrêa </h1>
 <h3 align="center">Data Analyst</h3>
 
+<h3 align="left"> 📲 Sobre mim/About me:</h3>
+<p>
+    Olá! Sou o Leonardo, um profissional em transição para área Análise de Dados. Atualmente estou no quinto semestre do curso de Engenharia da Computação e estou buscando ampliar minhas habilidades na área de dados por meio de cursos voltados a mesma e participando ativamente da comunidade tech. 
+
+Ao longo da minha trajetória, adquiri habilidades expressivas na área logística, atuando em diversas frentes, como Análise de Dados, Gestão Logística, utilização de Sistemas ERP (TOTVS DATASUL, Cis-ERP), elaboração de relatórios e planilhas, acompanhamento de pedidos, cadastro de fornecedores e produtos, coleta e análise de preços, suporte ao cliente, uso de coletor WMS, pesquisa econômica e índices. Reconheço uma relação direta dessas competências com a área de dados, razão pela qual estou aprimorando ainda mais minhas habilidades nesse campo de interesse.
+
+Estou animado com as possibilidades na área de Dados e aberto a oportunidades e colaborações que me permitam expandir meu conhecimento e experiência neste campo dinâmico. 
+
+Vamos conectar e explorar juntos o potencial dos dados!
+</p>
+
 <h3 align="left"> 📲 Connect with me:</h3>
 <p 
     align="left"
