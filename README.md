@@ -25,7 +25,7 @@ Let's connect and explore the potential of data together!
     align="left"
 >
     <a 
-        href="in/leonardocorreadesa"
+        href="https://www.linkedin.com/in/leonardocorreadesa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKav%2BdvZZRjex94QNON3%2FaA%3D%3D"
         target="_blank"
     >
             <img 
