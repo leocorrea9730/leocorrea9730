@@ -40,7 +40,7 @@ Let's connect and explore the potential of data together!
     >
         <img
         align="center"
-        src="[https://share.google/images/tFg6SGo6aRK4SwyZN](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)"
+        src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
         alt="My email leonardocorreadesa30@gmail.com" 
         />
     </a>
