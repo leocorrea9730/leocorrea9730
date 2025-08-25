@@ -41,7 +41,7 @@ Let's connect and explore the potential of data together!
         <img
         align="center"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"
-        alt="mailto:leonardocorreadesa30@gmail.com" 
+        a href="mailto:leonardocorreadesa30@gmail.com" 
         />
     </a>
 </p>
