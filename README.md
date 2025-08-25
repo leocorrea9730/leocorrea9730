@@ -35,15 +35,9 @@ Let's connect and explore the potential of data together!
             />
     </a>
     <a 
-    href="leonardocorreadesa30@gmail.com"
-    target="_blank"
-    >
-        <img
-        align="center"
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"
-        href="mailto:leonardocorreadesa30@gmail.com" 
-        />
-    </a>
+   <a href="mailto:leonardocorreadesa30@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail"/>
+</a>
 </p>
 <div
     display: "flex";
