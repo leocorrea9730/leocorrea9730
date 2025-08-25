@@ -34,8 +34,14 @@ Let's connect and explore the potential of data together!
                 alt="Linkedin link to my profile page"
             />
     </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail"/>
+  <a 
+    href="leonardocorreadesa30@gmail.com"
+    target="_blank"
+    >
+        <img
+        align="center"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+        alt="leonardocorreadesa30@gmail.com>
 </a>
 </p>
 <div
