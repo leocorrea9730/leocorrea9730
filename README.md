@@ -40,7 +40,7 @@ Let's connect and explore the potential of data together!
     >
         <img
         align="center"
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         alt="leonardocorreadesa30@gmail.com>
 </a>
 </p>
